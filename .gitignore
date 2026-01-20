@@ -1,1 +1,8 @@
-.class
+*.class
+
+# Jika kamu menggunakan IDE, sebaiknya tambahkan juga folder ini:
+bin/
+out/
+.settings/
+.project
+.classpath
