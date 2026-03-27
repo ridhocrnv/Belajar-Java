@@ -13,5 +13,8 @@ public class Variabel {
         var country = "Indonesia";
 
         System.out.println(country);
+
+        final String goals = "Belajar Bahasa Pemrograman Java";
+        System.out.println(goals);
     }
 }
