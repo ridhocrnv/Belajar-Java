@@ -8,6 +8,10 @@ public class Variabel {
 
         System.out.println(name);
         System.out.println(age);
-        System.out.print(address);
+        System.out.println(address);
+
+        var country = "Indonesia";
+
+        System.out.println(country);
     }
 }
